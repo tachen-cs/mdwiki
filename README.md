@@ -1,7 +1,9 @@
 [![Build Status](https://travis-ci.org/Dynalon/mdwiki.png?branch=master)](https://travis-ci.org/Dynalon/mdwiki)
 
-MDwiki
+MDwiki / [build my personal wiki]
+
 ======
+
 
 100% static single file CMS/Wiki done purely with client-side Javascript and HTML5.
 
